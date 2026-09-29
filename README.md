@@ -239,7 +239,7 @@ You can then open a PR on our homebrew tap similar to https://github.com/transce
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/dennislapchenko/terraform-atlantis-config.svg)](https://starchart.cc/dennislapchenko/terraform-atlantis-config)
+[![Stargazers over time](https://starchart.cc/denisolnce/terraform-atlantis-config.svg)](https://starchart.cc/denisolnce/terraform-atlantis-config)
 
 ## License
 
