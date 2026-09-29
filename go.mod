@@ -1,4 +1,4 @@
-module github.com/dennislapchenko/terraform-atlantis-config
+module github.com/denisolnce/terraform-atlantis-config
 
 go 1.19
 
